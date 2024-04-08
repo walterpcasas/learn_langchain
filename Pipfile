@@ -11,6 +11,7 @@ langchain-community = "*"
 langchainhub = "*"
 chromadb = "*"
 bs4 = "*"
+datasets = "*"
 
 [dev-packages]
 ipykernel = "*"
