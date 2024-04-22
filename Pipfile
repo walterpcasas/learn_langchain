@@ -12,6 +12,9 @@ langchainhub = "*"
 chromadb = "*"
 bs4 = "*"
 datasets = "*"
+ipykernel = "*"
+pandas = "*"
+jupyter = "*"
 
 [dev-packages]
 ipykernel = "*"
